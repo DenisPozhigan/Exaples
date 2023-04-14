@@ -1,0 +1,15 @@
+C:\Users\Sawer\Desktop\GB study\Examples\Example_HellConsole\bin\Debug\net8.0\Example_HellConsole.exe
+C:\Users\Sawer\Desktop\GB study\Examples\Example_HellConsole\bin\Debug\net8.0\Example_HellConsole.deps.json
+C:\Users\Sawer\Desktop\GB study\Examples\Example_HellConsole\bin\Debug\net8.0\Example_HellConsole.runtimeconfig.json
+C:\Users\Sawer\Desktop\GB study\Examples\Example_HellConsole\bin\Debug\net8.0\Example_HellConsole.dll
+C:\Users\Sawer\Desktop\GB study\Examples\Example_HellConsole\bin\Debug\net8.0\Example_HellConsole.pdb
+C:\Users\Sawer\Desktop\GB study\Examples\Example_HellConsole\obj\Debug\net8.0\Example_HellConsole.csproj.AssemblyReference.cache
+C:\Users\Sawer\Desktop\GB study\Examples\Example_HellConsole\obj\Debug\net8.0\Example_HellConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sawer\Desktop\GB study\Examples\Example_HellConsole\obj\Debug\net8.0\Example_HellConsole.AssemblyInfoInputs.cache
+C:\Users\Sawer\Desktop\GB study\Examples\Example_HellConsole\obj\Debug\net8.0\Example_HellConsole.AssemblyInfo.cs
+C:\Users\Sawer\Desktop\GB study\Examples\Example_HellConsole\obj\Debug\net8.0\Example_HellConsole.csproj.CoreCompileInputs.cache
+C:\Users\Sawer\Desktop\GB study\Examples\Example_HellConsole\obj\Debug\net8.0\Example_HellConsole.dll
+C:\Users\Sawer\Desktop\GB study\Examples\Example_HellConsole\obj\Debug\net8.0\refint\Example_HellConsole.dll
+C:\Users\Sawer\Desktop\GB study\Examples\Example_HellConsole\obj\Debug\net8.0\Example_HellConsole.pdb
+C:\Users\Sawer\Desktop\GB study\Examples\Example_HellConsole\obj\Debug\net8.0\Example_HellConsole.genruntimeconfig.cache
+C:\Users\Sawer\Desktop\GB study\Examples\Example_HellConsole\obj\Debug\net8.0\ref\Example_HellConsole.dll
